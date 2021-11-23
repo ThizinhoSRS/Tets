@@ -1,0 +1,114 @@
+*{
+    margin: 0%;
+}
+
+header{
+    background-color: #91d0f0;
+    height: 100px;
+}
+
+main{
+    width: 100%;
+
+}
+
+#con2{
+    padding-left: 10px;
+}
+
+.container-fluid p{
+    position: relative;
+    top: 75px;
+    text-align: center;
+}
+
+.container-fluid img{
+    height: auto;
+    width: auto;
+    max-width: 200px;
+    max-height: 200px;
+    position: absolute;
+    left: 600px;
+    top: -10px;
+}
+
+.container-fluid p:hover{
+    background-color: #6069f0;
+    height: 25px;
+}
+
+header #logo{
+    width: 50%;
+}
+
+h2{
+    margin-top: 60px;
+    margin-left: 80px;
+}
+form{
+    width: 500px;
+    height: 30px;
+}
+
+.carousel-inner{
+    width: 400px;
+    float: left;
+}
+
+#carouselExampleIndicators{
+    float: right;
+}
+
+#thi{
+    float: none;
+    display: block;
+    margin-top: 35%;
+    padding-top: auto;
+}
+
+#barra{
+    background-color: #91d0f0;
+
+    height: 100px;
+}
+
+#thii{
+    text-align: center;
+    top: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#000000;
+    text-shadow: #ffffff 4px;
+}
+
+#kid{
+    position: relative;
+    margin-left: 81%;
+    bottom: 70px;
+}
+
+#the{
+    position: relative;
+    margin-left:85%;
+    bottom:102px;
+}
+
+#que{
+    position: relative;
+    right: 65px;
+    bottom: 148px;
+}
+
+#oi{
+    position: relative;
+    margin-left: 70%;
+    bottom:180px;
+}
+
+#grupo{
+    position: relative;
+    bottom:239px;
+}
+
+footer{
+    padding-bottom: 20px;
+}
